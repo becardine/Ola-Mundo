@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula.
 
-Essa alteração foi direto no site.
+Essa alteração foi feita diretamente no site.
